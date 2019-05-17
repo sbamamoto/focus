@@ -1,0 +1,6 @@
+#Thu, 04 Apr 2019 18:43:48 +0200
+
+info.app.version=0.1
+info.app.name=focus
+grails.env=production
+info.app.grailsVersion=3.3.1
